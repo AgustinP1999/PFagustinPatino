@@ -5,23 +5,23 @@
 
 body {
   background-image: radial-gradient(circle at 50% 50%, #373744 0, #36343e 10%, #333037 20%, #2f2d31 30%, #2a292a 40%, #242524 50%, #1d211e 60%, #171e1a 70%, #0f1b16 80%, #051913 90%, #001711 100%);
-  background-image: url(/images/fondoinicio.jpg);
+  background-image: url(../images/fondoinicio.jpg);
 }
 
 .bodyNosotros {
-  background-image: url(/images/fondonosotros.jpg);
+  background-image: url(../images/fondonosotros.jpg);
 }
 
 .bodyLocalidad {
-  background-image: url(/images/fondoubicacion.jpg);
+  background-image: url(../images/fondoubicacion.jpg);
 }
 
 .bodycontacto {
-  background-image: url(/images/fondocontacto.jpg);
+  background-image: url(../images/fondocontacto.jpg);
 }
 
 .bodygaleria {
-  background-image: url(/images/collagegaleria.jpg);
+  background-image: url(../images/collagegaleria.jpg);
 }
 
 /* inicio de la barra de navegacion */
